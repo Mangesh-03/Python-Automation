@@ -1,7 +1,6 @@
 # Process Automation Tool – Automated Running Process Logger with Email Alerts
 
-👨‍💻 **Author:** *Mangesh Ashok Bedre*  
-📅 **Date:** *15 June 2025*
+
 
 This Python automation tool periodically scans all system processes, records important process information (such as PID, name, username, and memory usage), generates a timestamped log file, and automatically sends the log file to a registered email address.  
 The tool uses a scheduler to run automatically every few seconds.
@@ -92,6 +91,9 @@ pip install psutil schedule
 
 ================================================================================
 ```
+
+👨‍💻 **Author:** Mangesh Ashok Bedre  
+📅 **Date:** 15 June 2025
 
 ---
 
