@@ -92,12 +92,10 @@ pip install psutil schedule
 ================================================================================
 ```
 
-👨‍💻 **Author:** Mangesh Ashok Bedre  
-📅 **Date:** 15 June 2025
 
 ---
 
 ## 👨‍💻 Author
 
 **Mangesh Ashok Bedre**  
-Python Developer | Automation Enthusiast
+
