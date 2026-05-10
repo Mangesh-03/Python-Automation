@@ -46,7 +46,7 @@ def CalculateChksum(path,BlockSize = 1024):
 def SendMail(logFile):
 
     SenderMail = "logfile29@gmail.com"
-    SenderPass = "ykpr wumw tgtz vtpm"
+    SenderPass = "ykpr xxxx xxxx xxxx"
     reciverMail = "mangeshbedre7@gmail.com"
     MailServer = "smtp.gmail.com"
     port = 587
